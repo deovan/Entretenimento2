@@ -39,21 +39,27 @@
             android:name="entretenimento.studio.com.entretenimento.pubActivity"
             android:label="Pub&apos;s"
             android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
+            android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="entretenimento.studio.com.entretenimento.barActivity"
             android:icon="@mipmap/ic_launcher"
             android:label="Bares"
-            android:roundIcon="@dimen/activity_horizontal_margin"
-            android:theme="@style/AppTheme" />
+            android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
+            android:roundIcon="@string/navigation_drawer_open"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="entretenimento.studio.com.entretenimento.boatActivity"
             android:label="Boates"
-            android:roundIcon="@string/navigation_drawer_open" />
+            android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
+            android:roundIcon="@string/navigation_drawer_open"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="entretenimento.studio.com.entretenimento.cinemaActivity"
             android:label="Cinemas"
-            android:roundIcon="@string/navigation_drawer_open" />
+            android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
+            android:roundIcon="@string/navigation_drawer_open"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="entretenimento.studio.com.entretenimento.contatoActivity"
             android:label="Contato"

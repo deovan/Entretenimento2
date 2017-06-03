@@ -31,22 +31,28 @@
             android:name=".pubActivity"
             android:label="Pub&apos;s"
             android:theme="@style/AppTheme.NoActionBar"
+            android:roundIcon="@string/navigation_drawer_open"
             android:parentActivityName=".MainActivity"
             />
         <activity
             android:name=".barActivity"
             android:icon="@mipmap/ic_launcher"
             android:label="Bares"
-            android:roundIcon="@dimen/activity_horizontal_margin"
-            android:theme="@style/AppTheme" />
+            android:roundIcon="@string/navigation_drawer_open"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".boatActivity"
             android:label="Boates"
-            android:roundIcon="@string/navigation_drawer_open" />
+            android:roundIcon="@string/navigation_drawer_open"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".cinemaActivity"
             android:label="Cinemas"
-            android:roundIcon="@string/navigation_drawer_open" />
+            android:roundIcon="@string/navigation_drawer_open"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".contatoActivity"
             android:label="Contato"

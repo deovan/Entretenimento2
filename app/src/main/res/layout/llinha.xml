@@ -3,8 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/darker_gray"
-    android:orientation="horizontal">
+    android:background="@drawable/click_lista"
+    android:backgroundTint="#aaaaaa"
+    android:orientation="horizontal"
+    android:state_pressed="true">
 
     <ImageView
         android:id="@+id/imagemID"
