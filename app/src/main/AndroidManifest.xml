@@ -22,10 +22,10 @@
         </activity>
         <activity
             android:name=".barActivity"
-            android:label="Bares"
             android:icon="@mipmap/ic_launcher"
+            android:label="Bares"
             android:roundIcon="@dimen/activity_horizontal_margin"
-            android:theme="@style/AppTheme"/>
+            android:theme="@style/AppTheme" />
         <activity
             android:name=".boatActivity"
             android:label="Boates"
@@ -33,10 +33,10 @@
         <activity
             android:name=".cinemaActivity"
             android:label="Cinemas"
-            android:roundIcon="@string/navigation_drawer_open"/>
+            android:roundIcon="@string/navigation_drawer_open" />
         <activity
             android:name=".pubActivity"
-            android:label="Pub's"
+            android:label="Pub&apos;s"
             android:roundIcon="@string/navigation_drawer_open" />
         <activity
             android:name=".contatoActivity"
@@ -109,7 +109,7 @@
             android:roundIcon="@dimen/nav_header_height" />
         <activity
             android:name=".pubFlanniganActivity"
-            android:label="Flannigan's Irish Pub"
+            android:label="Flannigan&apos;s Irish Pub"
             android:parentActivityName=".pubActivity"
             android:roundIcon="@dimen/nav_header_height" />
         <activity
@@ -119,7 +119,7 @@
             android:roundIcon="@dimen/nav_header_height" />
         <activity
             android:name=".pubJohnActivity"
-            android:label="John O'Groats Scottish Pub"
+            android:label="John O&apos;Groats Scottish Pub"
             android:parentActivityName=".pubActivity"
             android:roundIcon="@dimen/nav_header_height" />
         <activity
@@ -139,7 +139,7 @@
             android:roundIcon="@dimen/nav_header_height" />
         <activity
             android:name=".boateArabianActivity"
-            android:label="Arabian's hookah lounge"
+            android:label="Arabian&apos;s hookah lounge"
             android:parentActivityName=".boatActivity"
             android:roundIcon="@dimen/nav_header_height" />
         <activity
@@ -176,7 +176,8 @@
             android:name=".cineSystemActivity"
             android:label="CineSystem"
             android:parentActivityName=".cinemaActivity"
-            android:roundIcon="@dimen/nav_header_height"></activity>
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity android:name=".inicioActivity"></activity>
     </application>
 
 </manifest>

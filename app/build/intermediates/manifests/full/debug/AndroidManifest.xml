@@ -187,6 +187,7 @@
             android:label="CineSystem"
             android:parentActivityName="entretenimento.studio.com.entretenimento.cinemaActivity"
             android:roundIcon="@dimen/nav_header_height" />
+        <activity android:name="entretenimento.studio.com.entretenimento.inicioActivity" />
     </application>
 
 </manifest>
