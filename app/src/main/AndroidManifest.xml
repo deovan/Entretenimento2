@@ -21,6 +21,19 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".inicioActivity"
+            android:label="Inicio"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity"
+        />
+
+        <activity
+            android:name=".pubActivity"
+            android:label="Pub&apos;s"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity"
+            />
+        <activity
             android:name=".barActivity"
             android:icon="@mipmap/ic_launcher"
             android:label="Bares"
@@ -33,10 +46,6 @@
         <activity
             android:name=".cinemaActivity"
             android:label="Cinemas"
-            android:roundIcon="@string/navigation_drawer_open" />
-        <activity
-            android:name=".pubActivity"
-            android:label="Pub&apos;s"
             android:roundIcon="@string/navigation_drawer_open" />
         <activity
             android:name=".contatoActivity"
@@ -177,7 +186,6 @@
             android:label="CineSystem"
             android:parentActivityName=".cinemaActivity"
             android:roundIcon="@dimen/nav_header_height" />
-        <activity android:name=".inicioActivity"></activity>
     </application>
 
 </manifest>

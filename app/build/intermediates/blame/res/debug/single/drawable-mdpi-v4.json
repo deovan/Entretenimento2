@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
         "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\6fceda7be65f88b3e646e85f7852ce6f07d9df28\\output\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
@@ -100,12 +100,12 @@
         "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\356f399295bd5707da07dc9633efc5556f2fa72e\\output\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
@@ -132,12 +132,12 @@
         "source": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\356f399295bd5707da07dc9633efc5556f2fa72e\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\356f399295bd5707da07dc9633efc5556f2fa72e\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
         "source": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\\output\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\356f399295bd5707da07dc9633efc5556f2fa72e\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",

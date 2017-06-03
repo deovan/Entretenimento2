@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_inicio) {
 
-            Intent intent = new Intent(this, MainActivity.class);
+            Intent intent = new Intent(this,inicioActivity.class);
             startActivity(intent);
 
         } else if (id == R.id.nav_bar) {

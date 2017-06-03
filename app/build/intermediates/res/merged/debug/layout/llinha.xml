@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="horizontal"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    android:orientation="horizontal">
 
     <ImageView
         android:id="@+id/imagemID"
@@ -26,8 +27,8 @@
             android:id="@+id/nomeID"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="5dp"
             android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
             android:text="@string/nome_estabelecimento"
             android:textAppearance="@style/Base.TextAppearance.AppCompat.SearchResult.Title"
             tools:ignore="RtlHardcoded" />

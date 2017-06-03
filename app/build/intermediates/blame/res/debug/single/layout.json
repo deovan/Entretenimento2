@@ -472,6 +472,10 @@
         "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pub.xml",
+        "source": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\src\\main\\res\\layout\\activity_pub.xml"
+    },
+    {
         "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
