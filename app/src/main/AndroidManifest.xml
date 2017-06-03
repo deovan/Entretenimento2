@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="entretenimento.studio.com.entretenimento">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:roundIcon="@string/navigation_drawer_open"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".barActivity"
+            android:label="Bares"
+            android:icon="@mipmap/ic_launcher"
+            android:roundIcon="@dimen/activity_horizontal_margin"
+            android:theme="@style/AppTheme"/>
+        <activity
+            android:name=".boatActivity"
+            android:label="Boates"
+            android:roundIcon="@string/navigation_drawer_open" />
+        <activity
+            android:name=".cinemaActivity"
+            android:label="Cinemas"
+            android:roundIcon="@string/navigation_drawer_open"/>
+        <activity
+            android:name=".pubActivity"
+            android:label="Pub's"
+            android:roundIcon="@string/navigation_drawer_open" />
+        <activity
+            android:name=".contatoActivity"
+            android:label="Contato"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".bar43rockActivity"
+            android:label="43 Rockbar"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barCativeiroActivity"
+            android:label="Cativeiro Bar"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barEscritorioActivity"
+            android:label="Escritório Bar"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barEstacaoActivity"
+            android:label="Estação Café Brasil"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barMeninasActivity"
+            android:label="Meninas Bar"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barMariaActivity"
+            android:label="Maria Vai Cazoutras"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barNarcisoActivity"
+            android:label="Narciso Bar"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barOficinaActivity"
+            android:label="Oficina Bar"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barR2Activity"
+            android:label="R2 Choperia"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barVitrolaActivity"
+            android:label="Vitrola Bar"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barValentinoActivity"
+            android:label="Valentino"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barSantoActivity"
+            android:label="Santo Graau"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".barTozenActivity"
+            android:label="Tozen Bar"
+            android:parentActivityName=".barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".pubFlanniganActivity"
+            android:label="Flannigan's Irish Pub"
+            android:parentActivityName=".pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".pubFolksActivity"
+            android:label="Folks Pub Setanejo"
+            android:parentActivityName=".pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".pubJohnActivity"
+            android:label="John O'Groats Scottish Pub"
+            android:parentActivityName=".pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".pubPalhanoActivity"
+            android:label="Palhano Pub"
+            android:parentActivityName=".pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".pubCheersActivity"
+            android:label="Cherrers Pub"
+            android:parentActivityName=".pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".pubSlowActivity"
+            android:label="SlowdownPUB"
+            android:parentActivityName=".pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".boateArabianActivity"
+            android:label="Arabian's hookah lounge"
+            android:parentActivityName=".boatActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".boate2800Activity"
+            android:label="kingdom 2800"
+            android:parentActivityName=".boatActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".boateNyActivity"
+            android:label="NY Lounge "
+            android:parentActivityName=".boatActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".cineAraujoActivity"
+            android:label="Cine Araujo"
+            android:parentActivityName=".cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".cineFlixActivity"
+            android:label="CineFlix"
+            android:parentActivityName=".cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".cineLumiereActivity"
+            android:label="Cine Lumière"
+            android:parentActivityName=".cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".cineMarkActivity"
+            android:label="CineMark"
+            android:parentActivityName=".cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name=".cineSystemActivity"
+            android:label="CineSystem"
+            android:parentActivityName=".cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,4 @@
+#Thu Jun 01 21:31:11 BRT 2017
+base.0=E\:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=E\:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

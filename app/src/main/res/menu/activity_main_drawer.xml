@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:title="@string/in_cio" />
+        <item
+            android:id="@+id/nav_bar"
+            android:title="@string/bares" />
+        <item
+            android:id="@+id/nav_boate"
+            android:title="@string/boates" />
+        <item
+            android:id="@+id/nav_cinema"
+            android:title="@string/cinemas" />
+        <item
+            android:id="@+id/nav_Pub"
+            android:title="@string/pub_s" />
+    </group>
+
+    <item android:title="@string/fale_conosco">
+        <menu>
+            <item
+                android:id="@+id/nav_contato"
+                android:title="@string/contato" />
+        </menu>
+    </item>
+
+</menu>

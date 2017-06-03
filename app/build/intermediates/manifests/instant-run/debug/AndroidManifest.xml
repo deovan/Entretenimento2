@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="entretenimento.studio.com.entretenimento"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.MainActivity"
+            android:label="@string/app_name"
+            android:roundIcon="@string/navigation_drawer_open"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barActivity"
+            android:icon="@mipmap/ic_launcher"
+            android:label="Bares"
+            android:roundIcon="@dimen/activity_horizontal_margin"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.boatActivity"
+            android:label="Boates"
+            android:roundIcon="@string/navigation_drawer_open" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.cinemaActivity"
+            android:label="Cinemas"
+            android:roundIcon="@string/navigation_drawer_open" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.pubActivity"
+            android:label="Pub&apos;s"
+            android:roundIcon="@string/navigation_drawer_open" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.contatoActivity"
+            android:label="Contato"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.bar43rockActivity"
+            android:label="43 Rockbar"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barCativeiroActivity"
+            android:label="Cativeiro Bar"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barEscritorioActivity"
+            android:label="Escritório Bar"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barEstacaoActivity"
+            android:label="Estação Café Brasil"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barMeninasActivity"
+            android:label="Meninas Bar"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barMariaActivity"
+            android:label="Maria Vai Cazoutras"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barNarcisoActivity"
+            android:label="Narciso Bar"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barOficinaActivity"
+            android:label="Oficina Bar"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barR2Activity"
+            android:label="R2 Choperia"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barVitrolaActivity"
+            android:label="Vitrola Bar"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barValentinoActivity"
+            android:label="Valentino"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barSantoActivity"
+            android:label="Santo Graau"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.barTozenActivity"
+            android:label="Tozen Bar"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.barActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.pubFlanniganActivity"
+            android:label="Flannigan&apos;s Irish Pub"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.pubFolksActivity"
+            android:label="Folks Pub Setanejo"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.pubJohnActivity"
+            android:label="John O&apos;Groats Scottish Pub"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.pubPalhanoActivity"
+            android:label="Palhano Pub"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.pubCheersActivity"
+            android:label="Cherrers Pub"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.pubSlowActivity"
+            android:label="SlowdownPUB"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.pubActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.boateArabianActivity"
+            android:label="Arabian&apos;s hookah lounge"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.boatActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.boate2800Activity"
+            android:label="kingdom 2800"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.boatActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.boateNyActivity"
+            android:label="NY Lounge "
+            android:parentActivityName="entretenimento.studio.com.entretenimento.boatActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.cineAraujoActivity"
+            android:label="Cine Araujo"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.cineFlixActivity"
+            android:label="CineFlix"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.cineLumiereActivity"
+            android:label="Cine Lumière"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.cineMarkActivity"
+            android:label="CineMark"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+        <activity
+            android:name="entretenimento.studio.com.entretenimento.cineSystemActivity"
+            android:label="CineSystem"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.cinemaActivity"
+            android:roundIcon="@dimen/nav_header_height" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="entretenimento.studio.com.entretenimento.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

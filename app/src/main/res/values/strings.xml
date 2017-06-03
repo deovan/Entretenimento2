@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Entretenimento</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="bares">Bares</string>
+    <string name="in_cio">Início</string>
+    <string name="boates">Boates</string>
+    <string name="cinemas">Cinemas</string>
+    <string name="pub_s">Pub\'s</string>
+    <string name="contato">Contato</string>
+    <string name="fale_conosco">Fale Conosco</string>
+    <string name="endere_o">Endereço</string>
+    <string name="nome_estabelecimento">Nome Estabelecimento</string>
+    <string name="email">Email</string>
+    <string name="nome">Nome</string>
+</resources>
