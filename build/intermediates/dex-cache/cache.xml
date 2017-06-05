@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="E:\Entretenimento\Entretenimento2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="E:\Entretenimento\Entretenimento2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_27fcb65ee7432e3b6335c49591c0edc647cf5f7e\classes.dex" />
+        <dex dex="C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_615884b250e5648bb2a93acce4af6731879e793d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\Entretenimento\Entretenimento2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="e0652cc91a0d273aff41de825a3d937414089725">
-        <dex dex="E:\Entretenimento\Entretenimento2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_867a1bec948e2f33b57363ce212cf68fc600b208\classes.dex" />
+        sha1="d74b5b0aa013fefe2a8f082da205feb95b9c6c99">
+        <dex dex="C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_19af042d8723caa1abc610a647aaa02dc95b543e\classes.dex" />
     </item>
 
 </items>
