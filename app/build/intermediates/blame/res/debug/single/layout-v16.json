@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\356f399295bd5707da07dc9633efc5556f2fa72e\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\layout-v16\\notification_template_custom_big.xml"
     }
