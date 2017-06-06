@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\6fceda7be65f88b3e646e85f7852ce6f07d9df28\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
+        "merged": "C:\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\6fceda7be65f88b3e646e85f7852ce6f07d9df28\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

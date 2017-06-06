@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     }
 ]
