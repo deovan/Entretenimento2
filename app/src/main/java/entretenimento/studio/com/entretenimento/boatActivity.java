@@ -90,7 +90,6 @@ public class boatActivity extends AppCompatActivity implements NavigationView.On
             drawer.closeDrawer(GravityCompat.START);
         } else {
             super.onBackPressed();
-          //  finish();
 
         }
     }

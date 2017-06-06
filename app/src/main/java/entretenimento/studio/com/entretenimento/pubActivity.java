@@ -104,7 +104,6 @@ public class pubActivity extends AppCompatActivity implements NavigationView.OnN
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
-           // finish();
           super.onBackPressed();
         }
     }

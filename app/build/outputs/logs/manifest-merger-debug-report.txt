@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:2:1-207:12
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:2:1-200:12
 	package
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:3:5-55
 		INJECTED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\A
 	android:name
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:6:5-205:19
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:6:5-198:19
 MERGED from [com.android.support:design:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\356f399295bd5707da07dc9633efc5556f2fa72e\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\408acac6a5490f83b031538ea156af49c99ddfa6\output\AndroidManifest.xml:26:5-20
@@ -65,52 +65,54 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:22:27-74
-activity#entretenimento.studio.com.entretenimento.inicioActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:25:9-31:11
-	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:27:13-35
-	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:30:13-55
-	android:launchMode
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:28:13-43
-	android:theme
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:29:13-56
-	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:26:13-43
 activity#entretenimento.studio.com.entretenimento.pubActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:33:9-40:15
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:26:9-33:15
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:35:13-39
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:28:13-39
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:39:13-55
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:32:13-55
 	android:launchMode
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:36:13-43
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:29:13-43
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:38:13-63
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:31:13-63
 	android:theme
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:37:13-56
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:30:13-56
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:34:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:27:13-40
 activity#entretenimento.studio.com.entretenimento.barActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:41:9-48:57
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:34:9-41:57
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:44:13-34
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:37:13-34
+	android:parentActivityName
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:41:13-55
+	android:launchMode
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:38:13-43
+	android:roundIcon
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:39:13-63
+	android:icon
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:36:13-47
+	android:theme
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:35:13-40
+activity#entretenimento.studio.com.entretenimento.boatActivity
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:42:9-48:57
+	android:label
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:44:13-35
 	android:parentActivityName
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:48:13-55
 	android:launchMode
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:45:13-43
 	android:roundIcon
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:46:13-63
-	android:icon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:43:13-47
 	android:theme
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:47:13-56
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:42:13-40
-activity#entretenimento.studio.com.entretenimento.boatActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:49:9-55:57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:43:13-41
+activity#entretenimento.studio.com.entretenimento.cinemaActivity
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:49:9-55:58
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:51:13-35
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:51:13-36
 	android:parentActivityName
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:55:13-55
 	android:launchMode
@@ -120,305 +122,291 @@ ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\A
 	android:theme
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:54:13-56
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:50:13-41
-activity#entretenimento.studio.com.entretenimento.cinemaActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:56:9-62:58
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:50:13-43
+activity#entretenimento.studio.com.entretenimento.contatoActivity
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:56:9-62:57
 	android:label
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:58:13-36
 	android:parentActivityName
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:62:13-55
 	android:launchMode
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:59:13-43
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:60:13-43
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:60:13-63
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:59:13-63
 	android:theme
 		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:61:13-56
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:57:13-43
-activity#entretenimento.studio.com.entretenimento.contatoActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:63:9-69:57
-	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:65:13-36
-	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:69:13-55
-	android:launchMode
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:67:13-43
-	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:66:13-63
-	android:theme
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:68:13-56
-	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:64:13-44
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:57:13-44
 activity#entretenimento.studio.com.entretenimento.bar43rockActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:70:9-74:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:63:9-67:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:72:13-39
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:65:13-39
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:73:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:66:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:74:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:67:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:71:13-46
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:64:13-46
 activity#entretenimento.studio.com.entretenimento.barCativeiroActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:75:9-79:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:68:9-72:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:77:13-42
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:70:13-42
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:78:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:71:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:79:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:72:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:76:13-49
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:69:13-49
 activity#entretenimento.studio.com.entretenimento.barEscritorioActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:80:9-84:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:73:9-77:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:82:13-43
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:75:13-43
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:83:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:76:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:84:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:77:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:81:13-50
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:74:13-50
 activity#entretenimento.studio.com.entretenimento.barEstacaoActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:85:9-89:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:78:9-82:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:87:13-48
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:80:13-48
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:88:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:81:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:89:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:82:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:86:13-47
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:79:13-47
 activity#entretenimento.studio.com.entretenimento.barMeninasActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:90:9-94:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:83:9-87:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:92:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:85:13-40
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:93:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:86:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:94:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:87:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:91:13-47
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:84:13-47
 activity#entretenimento.studio.com.entretenimento.barMariaActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:95:9-99:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:88:9-92:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:97:13-48
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:90:13-48
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:98:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:91:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:99:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:92:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:96:13-45
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:89:13-45
 activity#entretenimento.studio.com.entretenimento.barNarcisoActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:100:9-104:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:93:9-97:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:102:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:95:13-40
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:103:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:96:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:104:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:97:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:101:13-47
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:94:13-47
 activity#entretenimento.studio.com.entretenimento.barOficinaActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:105:9-109:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:98:9-102:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:107:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:100:13-40
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:108:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:101:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:109:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:102:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:106:13-47
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:99:13-47
 activity#entretenimento.studio.com.entretenimento.barR2Activity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:110:9-114:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:103:9-107:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:112:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:105:13-40
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:113:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:106:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:114:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:107:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:111:13-42
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:104:13-42
 activity#entretenimento.studio.com.entretenimento.barVitrolaActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:115:9-119:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:108:9-112:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:117:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:110:13-40
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:118:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:111:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:119:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:112:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:116:13-47
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:109:13-47
 activity#entretenimento.studio.com.entretenimento.barValentinoActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:120:9-124:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:113:9-117:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:122:13-38
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:115:13-38
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:123:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:116:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:124:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:117:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:121:13-49
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:114:13-49
 activity#entretenimento.studio.com.entretenimento.barSantoActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:125:9-129:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:118:9-122:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:127:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:120:13-40
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:128:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:121:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:129:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:122:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:126:13-45
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:119:13-45
 activity#entretenimento.studio.com.entretenimento.barTozenActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:130:9-134:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:123:9-127:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:132:13-38
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:125:13-38
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:133:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:126:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:134:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:127:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:131:13-45
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:124:13-45
 activity#entretenimento.studio.com.entretenimento.pubFlanniganActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:135:9-139:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:128:9-132:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:137:13-55
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:130:13-55
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:138:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:131:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:139:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:132:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:136:13-49
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:129:13-49
 activity#entretenimento.studio.com.entretenimento.pubFolksActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:140:9-144:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:133:9-137:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:142:13-47
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:135:13-47
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:143:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:136:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:144:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:137:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:141:13-45
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:134:13-45
 activity#entretenimento.studio.com.entretenimento.pubJohnActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:145:9-149:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:138:9-142:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:147:13-60
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:140:13-60
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:148:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:141:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:149:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:142:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:146:13-44
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:139:13-44
 activity#entretenimento.studio.com.entretenimento.pubPalhanoActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:150:9-154:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:143:9-147:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:152:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:145:13-40
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:153:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:146:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:154:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:147:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:151:13-47
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:144:13-47
 activity#entretenimento.studio.com.entretenimento.pubCheersActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:155:9-159:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:148:9-152:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:157:13-41
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:150:13-41
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:158:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:151:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:159:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:152:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:156:13-46
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:149:13-46
 activity#entretenimento.studio.com.entretenimento.pubSlowActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:160:9-164:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:153:9-157:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:162:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:155:13-40
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:163:13-54
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:156:13-54
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:164:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:157:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:161:13-44
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:154:13-44
 activity#entretenimento.studio.com.entretenimento.boateArabianActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:165:9-169:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:158:9-162:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:167:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:160:13-57
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:168:13-55
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:161:13-55
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:169:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:162:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:166:13-49
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:159:13-49
 activity#entretenimento.studio.com.entretenimento.boate2800Activity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:170:9-174:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:163:9-167:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:172:13-41
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:165:13-41
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:173:13-55
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:166:13-55
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:174:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:167:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:171:13-46
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:164:13-46
 activity#entretenimento.studio.com.entretenimento.boateNyActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:175:9-179:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:168:9-172:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:177:13-39
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:170:13-39
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:178:13-55
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:171:13-55
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:179:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:172:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:176:13-44
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:169:13-44
 activity#entretenimento.studio.com.entretenimento.cineAraujoActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:180:9-184:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:173:9-177:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:182:13-40
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:175:13-40
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:183:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:176:13-57
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:184:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:177:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:181:13-47
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:174:13-47
 activity#entretenimento.studio.com.entretenimento.cineFlixActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:185:9-189:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:178:9-182:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:187:13-37
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:180:13-37
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:188:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:181:13-57
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:189:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:182:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:186:13-45
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:179:13-45
 activity#entretenimento.studio.com.entretenimento.cineLumiereActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:190:9-194:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:183:9-187:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:192:13-41
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:185:13-41
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:193:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:186:13-57
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:194:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:187:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:191:13-48
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:184:13-48
 activity#entretenimento.studio.com.entretenimento.cineMarkActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:195:9-199:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:188:9-192:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:197:13-37
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:190:13-37
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:198:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:191:13-57
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:199:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:192:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:196:13-45
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:189:13-45
 activity#entretenimento.studio.com.entretenimento.cineSystemActivity
-ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:200:9-204:60
+ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:193:9-197:60
 	android:label
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:202:13-39
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:195:13-39
 	android:parentActivityName
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:203:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:196:13-57
 	android:roundIcon
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:204:13-57
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:197:13-57
 	android:name
-		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:201:13-47
+		ADDED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:194:13-47
 uses-sdk
 INJECTED from C:\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\output\AndroidManifest.xml:21:5-23:62

@@ -34,12 +34,6 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="entretenimento.studio.com.entretenimento.inicioActivity"
-            android:label="Inicio"
-            android:launchMode="singleTop"
-            android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name="entretenimento.studio.com.entretenimento.pubActivity"
             android:label="Pub&apos;s"
             android:launchMode="singleTop"
