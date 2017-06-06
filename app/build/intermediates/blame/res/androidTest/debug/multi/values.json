@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,30 +12,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\c32925ac28c434152d3f5a5f88dcd715d1e19f12\\output\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\e2bb4bf63d6684b48b7d280fca3a14790ee22ab7\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

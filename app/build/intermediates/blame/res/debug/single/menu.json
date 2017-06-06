@@ -1,22 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_sem_settings.xml",
-        "source": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\src\\main\\res\\menu\\main_sem_settings.xml"
+        "merged": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "E:\\Entretenimento\\Entretenimento2\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
-        "merged": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "E:\\Entretenimento\\Entretenimento2\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_sem_settings.xml",
+        "source": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\src\\main\\res\\menu\\main_sem_settings.xml"
     }
 ]

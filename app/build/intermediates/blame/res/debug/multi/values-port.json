@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "outputFile": "C:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -12,30 +12,6 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Celio Nascimento\\.android\\build-cache\\3570aec21e40ef36f73e36d2809a0da84f5a8257\\output\\res\\values-port\\values-port.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 55,
-                        "endOffset": 106
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Deovan Zanol\\AndroidStudioProjects\\Entretenimento\\Entretenimento\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "C:\\Users\\Deovan Zanol\\.android\\build-cache\\356f399295bd5707da07dc9633efc5556f2fa72e\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

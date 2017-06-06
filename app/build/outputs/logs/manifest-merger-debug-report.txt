@@ -1,461 +1,445 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:2:1-207:12
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:2:1-198:12
 	package
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:3:5-55
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:3:5-55
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:4:5-83
-	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:4:22-64
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
+uses-feature#0x00010001
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:4:5-77
+	android:glEsVersion
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:4:19-51
+	android:required
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:4:52-75
 application
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:6:5-205:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\356f399295bd5707da07dc9633efc5556f2fa72e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\408acac6a5490f83b031538ea156af49c99ddfa6\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\3bfe6f79b7f43381a0719f0a7e8a0fa9b082671d\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\4d7b4180d85ace48c369ed9484639e8dbaaeca80\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\f424bf8e400aa0e0d2e9626f3de60742d8321fe3\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\4a13d4affce69ce1d9465f043776973e169a86f0\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\02c9c1266b66826c453044fa87ad62d21f56da11\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\02d85a6eb793e5a5e004e261c76680ccac45fe43\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\979f631677ab7145475a5c29697978735b44328b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\541506c275bdbbda07ecd571199765527f92fa89\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Deovan Zanol\.android\build-cache\8fe31e9b874cba077d8cab546d355c0feac6636b\output\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:6:5-196:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\6fceda7be65f88b3e646e85f7852ce6f07d9df28\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\3570aec21e40ef36f73e36d2809a0da84f5a8257\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\03c5e37dddc96b67754113dc9f3e9ed5b6f4f27c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\255494a7c2ba655ae699bf494a941457b5df3b9e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\b7c25f91e1078c70c80eb424b093578ca3d7c7cd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\3e99cf8db01ddee6cef7c5626042c08215e75294\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\dc468f31489c1fbad432f3275fab06d153acb72d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\8ee2ae6dc0cf327af33a8d2e861ff122d8c2b77f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\07264e62b53e1b6466d013ae7b70902bbf903b16\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\2f49030ba9e198d6a83070f7ea8986742a07f743\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\286e8ce8be6b8a7e09a46720959d1135a9cf5eb5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Celio Nascimento\.android\build-cache\fea4b1754e875da8c4168fbf8c6ad1a02da705b8\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:11:9-35
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:10:9-54
 	android:allowBackup
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:8:9-43
 	android:theme
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:12:9-40
 activity#entretenimento.studio.com.entretenimento.MainActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:13:9-24:20
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:13:9-23:20
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:15:13-45
-	android:launchMode
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:16:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:15:13-45
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:17:13-63
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:16:13-63
 	android:theme
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:18:13-56
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:17:13-56
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:14:13-41
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:14:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:21:27-74
 activity#entretenimento.studio.com.entretenimento.inicioActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:25:9-31:11
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:24:9-29:11
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:27:13-35
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:26:13-35
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:30:13-55
-	android:launchMode
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:28:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:28:13-55
 	android:theme
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:29:13-56
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:27:13-56
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:26:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:25:13-43
 activity#entretenimento.studio.com.entretenimento.pubActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:33:9-40:15
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:31:9-37:15
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:35:13-39
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:33:13-39
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:39:13-55
-	android:launchMode
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:36:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:36:13-55
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:38:13-63
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:35:13-63
 	android:theme
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:37:13-56
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:34:13-56
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:34:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:32:13-40
 activity#entretenimento.studio.com.entretenimento.barActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:41:9-48:57
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:38:9-44:57
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:44:13-34
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:41:13-34
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:48:13-55
-	android:launchMode
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:45:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:44:13-55
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:46:13-63
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:42:13-63
 	android:icon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:43:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:40:13-47
 	android:theme
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:47:13-56
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:43:13-56
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:42:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:39:13-40
 activity#entretenimento.studio.com.entretenimento.boatActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:49:9-55:57
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:45:9-50:57
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:51:13-35
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:47:13-35
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:55:13-55
-	android:launchMode
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:52:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:50:13-55
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:53:13-63
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:48:13-63
 	android:theme
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:54:13-56
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:49:13-56
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:50:13-41
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:46:13-41
 activity#entretenimento.studio.com.entretenimento.cinemaActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:56:9-62:58
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:51:9-56:58
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:58:13-36
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:53:13-36
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:62:13-55
-	android:launchMode
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:59:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:56:13-55
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:60:13-63
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:54:13-63
 	android:theme
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:61:13-56
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:55:13-56
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:57:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:52:13-43
 activity#entretenimento.studio.com.entretenimento.contatoActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:63:9-69:57
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:57:9-60:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:65:13-36
-	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:69:13-55
-	android:launchMode
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:67:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:59:13-36
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:66:13-63
-	android:theme
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:68:13-56
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:60:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:64:13-44
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:58:13-44
 activity#entretenimento.studio.com.entretenimento.bar43rockActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:70:9-74:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:61:9-65:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:72:13-39
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:63:13-39
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:73:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:64:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:74:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:65:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:71:13-46
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:62:13-46
 activity#entretenimento.studio.com.entretenimento.barCativeiroActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:75:9-79:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:66:9-70:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:77:13-42
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:68:13-42
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:78:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:69:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:79:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:70:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:76:13-49
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:67:13-49
 activity#entretenimento.studio.com.entretenimento.barEscritorioActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:80:9-84:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:71:9-75:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:82:13-43
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:73:13-43
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:83:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:74:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:84:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:75:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:81:13-50
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:72:13-50
 activity#entretenimento.studio.com.entretenimento.barEstacaoActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:85:9-89:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:76:9-80:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:87:13-48
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:78:13-48
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:88:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:79:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:89:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:80:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:86:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:77:13-47
 activity#entretenimento.studio.com.entretenimento.barMeninasActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:90:9-94:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:81:9-85:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:92:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:83:13-40
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:93:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:84:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:94:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:85:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:91:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:82:13-47
 activity#entretenimento.studio.com.entretenimento.barMariaActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:95:9-99:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:86:9-90:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:97:13-48
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:88:13-48
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:98:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:89:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:99:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:90:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:96:13-45
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:87:13-45
 activity#entretenimento.studio.com.entretenimento.barNarcisoActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:100:9-104:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:91:9-95:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:102:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:93:13-40
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:103:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:94:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:104:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:95:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:101:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:92:13-47
 activity#entretenimento.studio.com.entretenimento.barOficinaActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:105:9-109:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:96:9-100:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:107:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:98:13-40
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:108:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:99:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:109:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:100:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:106:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:97:13-47
 activity#entretenimento.studio.com.entretenimento.barR2Activity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:110:9-114:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:101:9-105:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:112:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:103:13-40
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:113:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:104:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:114:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:105:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:111:13-42
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:102:13-42
 activity#entretenimento.studio.com.entretenimento.barVitrolaActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:115:9-119:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:106:9-110:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:117:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:108:13-40
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:118:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:109:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:119:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:110:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:116:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:107:13-47
 activity#entretenimento.studio.com.entretenimento.barValentinoActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:120:9-124:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:111:9-115:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:122:13-38
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:113:13-38
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:123:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:114:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:124:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:115:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:121:13-49
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:112:13-49
 activity#entretenimento.studio.com.entretenimento.barSantoActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:125:9-129:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:116:9-120:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:127:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:118:13-40
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:128:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:119:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:129:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:120:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:126:13-45
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:117:13-45
 activity#entretenimento.studio.com.entretenimento.barTozenActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:130:9-134:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:121:9-125:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:132:13-38
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:123:13-38
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:133:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:124:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:134:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:125:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:131:13-45
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:122:13-45
 activity#entretenimento.studio.com.entretenimento.pubFlanniganActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:135:9-139:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:126:9-130:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:137:13-55
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:128:13-55
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:138:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:129:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:139:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:130:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:136:13-49
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:127:13-49
 activity#entretenimento.studio.com.entretenimento.pubFolksActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:140:9-144:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:131:9-135:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:142:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:133:13-47
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:143:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:134:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:144:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:135:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:141:13-45
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:132:13-45
 activity#entretenimento.studio.com.entretenimento.pubJohnActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:145:9-149:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:136:9-140:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:147:13-60
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:138:13-60
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:148:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:139:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:149:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:140:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:146:13-44
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:137:13-44
 activity#entretenimento.studio.com.entretenimento.pubPalhanoActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:150:9-154:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:141:9-145:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:152:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:143:13-40
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:153:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:144:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:154:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:145:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:151:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:142:13-47
 activity#entretenimento.studio.com.entretenimento.pubCheersActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:155:9-159:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:146:9-150:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:157:13-41
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:148:13-41
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:158:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:149:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:159:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:150:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:156:13-46
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:147:13-46
 activity#entretenimento.studio.com.entretenimento.pubSlowActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:160:9-164:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:151:9-155:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:162:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:153:13-40
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:163:13-54
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:154:13-54
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:164:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:155:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:161:13-44
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:152:13-44
 activity#entretenimento.studio.com.entretenimento.boateArabianActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:165:9-169:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:156:9-160:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:167:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:158:13-57
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:168:13-55
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:159:13-55
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:169:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:160:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:166:13-49
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:157:13-49
 activity#entretenimento.studio.com.entretenimento.boate2800Activity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:170:9-174:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:161:9-165:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:172:13-41
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:163:13-41
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:173:13-55
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:164:13-55
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:174:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:165:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:171:13-46
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:162:13-46
 activity#entretenimento.studio.com.entretenimento.boateNyActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:175:9-179:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:166:9-170:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:177:13-39
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:168:13-39
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:178:13-55
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:169:13-55
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:179:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:170:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:176:13-44
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:167:13-44
 activity#entretenimento.studio.com.entretenimento.cineAraujoActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:180:9-184:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:171:9-175:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:182:13-40
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:173:13-40
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:183:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:174:13-57
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:184:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:175:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:181:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:172:13-47
 activity#entretenimento.studio.com.entretenimento.cineFlixActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:185:9-189:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:176:9-180:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:187:13-37
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:178:13-37
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:188:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:179:13-57
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:189:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:180:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:186:13-45
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:177:13-45
 activity#entretenimento.studio.com.entretenimento.cineLumiereActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:190:9-194:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:181:9-185:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:192:13-41
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:183:13-41
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:193:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:184:13-57
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:194:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:185:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:191:13-48
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:182:13-48
 activity#entretenimento.studio.com.entretenimento.cineMarkActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:195:9-199:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:186:9-190:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:197:13-37
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:188:13-37
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:198:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:189:13-57
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:199:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:190:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:196:13-45
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:187:13-45
 activity#entretenimento.studio.com.entretenimento.cineSystemActivity
-ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:200:9-204:60
+ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:191:9-195:60
 	android:label
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:202:13-39
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:193:13-39
 	android:parentActivityName
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:203:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:194:13-57
 	android:roundIcon
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:204:13-57
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:195:13-57
 	android:name
-		ADDED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml:201:13-47
+		ADDED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml:192:13-47
 uses-sdk
-INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\356f399295bd5707da07dc9633efc5556f2fa72e\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\408acac6a5490f83b031538ea156af49c99ddfa6\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\3bfe6f79b7f43381a0719f0a7e8a0fa9b082671d\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\4491f34f16e397a5ae6eb067697cb1357cbe4766\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\4d7b4180d85ace48c369ed9484639e8dbaaeca80\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\f424bf8e400aa0e0d2e9626f3de60742d8321fe3\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\4a13d4affce69ce1d9465f043776973e169a86f0\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\02c9c1266b66826c453044fa87ad62d21f56da11\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\02d85a6eb793e5a5e004e261c76680ccac45fe43\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\979f631677ab7145475a5c29697978735b44328b\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\541506c275bdbbda07ecd571199765527f92fa89\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Deovan Zanol\.android\build-cache\8fe31e9b874cba077d8cab546d355c0feac6636b\output\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\6fceda7be65f88b3e646e85f7852ce6f07d9df28\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\3570aec21e40ef36f73e36d2809a0da84f5a8257\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\03c5e37dddc96b67754113dc9f3e9ed5b6f4f27c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\255494a7c2ba655ae699bf494a941457b5df3b9e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\c10ecc6e01e5c58cbadb44304c5fe2ffe1b13302\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\b7c25f91e1078c70c80eb424b093578ca3d7c7cd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\3e99cf8db01ddee6cef7c5626042c08215e75294\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\dc468f31489c1fbad432f3275fab06d153acb72d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\8ee2ae6dc0cf327af33a8d2e861ff122d8c2b77f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\07264e62b53e1b6466d013ae7b70902bbf903b16\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\2f49030ba9e198d6a83070f7ea8986742a07f743\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\286e8ce8be6b8a7e09a46720959d1135a9cf5eb5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Celio Nascimento\.android\build-cache\fea4b1754e875da8c4168fbf8c6ad1a02da705b8\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\6fceda7be65f88b3e646e85f7852ce6f07d9df28\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Deovan Zanol\AndroidStudioProjects\Entretenimento\Entretenimento\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Celio Nascimento\Documents\GitHub\Entretenimento2\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\356f399295bd5707da07dc9633efc5556f2fa72e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\408acac6a5490f83b031538ea156af49c99ddfa6\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\3bfe6f79b7f43381a0719f0a7e8a0fa9b082671d\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\4491f34f16e397a5ae6eb067697cb1357cbe4766\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\4d7b4180d85ace48c369ed9484639e8dbaaeca80\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\f424bf8e400aa0e0d2e9626f3de60742d8321fe3\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\4a13d4affce69ce1d9465f043776973e169a86f0\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\02c9c1266b66826c453044fa87ad62d21f56da11\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\02d85a6eb793e5a5e004e261c76680ccac45fe43\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\979f631677ab7145475a5c29697978735b44328b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\541506c275bdbbda07ecd571199765527f92fa89\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\6fceda7be65f88b3e646e85f7852ce6f07d9df28\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\3570aec21e40ef36f73e36d2809a0da84f5a8257\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\03c5e37dddc96b67754113dc9f3e9ed5b6f4f27c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\255494a7c2ba655ae699bf494a941457b5df3b9e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\c10ecc6e01e5c58cbadb44304c5fe2ffe1b13302\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\b7c25f91e1078c70c80eb424b093578ca3d7c7cd\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\3e99cf8db01ddee6cef7c5626042c08215e75294\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\dc468f31489c1fbad432f3275fab06d153acb72d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\8ee2ae6dc0cf327af33a8d2e861ff122d8c2b77f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\07264e62b53e1b6466d013ae7b70902bbf903b16\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\2f49030ba9e198d6a83070f7ea8986742a07f743\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\286e8ce8be6b8a7e09a46720959d1135a9cf5eb5\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\6fceda7be65f88b3e646e85f7852ce6f07d9df28\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Deovan Zanol\.android\build-cache\b626df41b03fb27f55a5b6b1864dbe3882ff30a7\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Celio Nascimento\.android\build-cache\6fceda7be65f88b3e646e85f7852ce6f07d9df28\output\AndroidManifest.xml:26:9-47

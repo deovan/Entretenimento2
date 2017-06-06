@@ -1,4 +1,4 @@
-#Fri Jun 02 02:46:03 BRT 2017
-base.0=E\:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+#Mon Jun 05 10:59:49 BRT 2017
+base.0=C\:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 renamed.0=classes.dex
-file.0=E\:\\Entretenimento\\Entretenimento2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
+file.0=C\:\\Users\\Celio Nascimento\\Documents\\GitHub\\Entretenimento2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
