@@ -90,6 +90,8 @@ public class boatActivity extends AppCompatActivity implements NavigationView.On
             drawer.closeDrawer(GravityCompat.START);
         } else {
             super.onBackPressed();
+          //  finish();
+
         }
     }
 
@@ -124,6 +126,7 @@ public class boatActivity extends AppCompatActivity implements NavigationView.On
         if (id == R.id.nav_inicio) {
 
             Intent intent = new Intent(this, MainActivity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
             startActivity(intent);
 
         } else if (id == R.id.nav_bar) {
@@ -136,6 +139,7 @@ public class boatActivity extends AppCompatActivity implements NavigationView.On
             Intent intent = new Intent(this, boatActivity.class);
             startActivity(intent);
 
+
         } else if (id == R.id.nav_cinema) {
 
             Intent intent = new Intent(this, cinemaActivity.class);
@@ -145,6 +149,7 @@ public class boatActivity extends AppCompatActivity implements NavigationView.On
 
             Intent intent = new Intent(this, pubActivity.class);
             startActivity(intent);
+
 
         } else if (id == R.id.nav_contato) {
 

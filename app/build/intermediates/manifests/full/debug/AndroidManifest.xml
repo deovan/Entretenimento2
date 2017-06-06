@@ -8,6 +8,8 @@
         android:minSdkVersion="15"
         android:targetSdkVersion="25" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <meta-data
         android:name="android.support.VERSION"
         android:value="25.3.1" />
@@ -22,6 +24,7 @@
         <activity
             android:name="entretenimento.studio.com.entretenimento.MainActivity"
             android:label="@string/app_name"
+            android:launchMode="singleTop"
             android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
@@ -33,11 +36,13 @@
         <activity
             android:name="entretenimento.studio.com.entretenimento.inicioActivity"
             android:label="Inicio"
+            android:launchMode="singleTop"
             android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="entretenimento.studio.com.entretenimento.pubActivity"
             android:label="Pub&apos;s"
+            android:launchMode="singleTop"
             android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
             android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -45,25 +50,31 @@
             android:name="entretenimento.studio.com.entretenimento.barActivity"
             android:icon="@mipmap/ic_launcher"
             android:label="Bares"
+            android:launchMode="singleTop"
             android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
             android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="entretenimento.studio.com.entretenimento.boatActivity"
             android:label="Boates"
+            android:launchMode="singleTop"
             android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
             android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="entretenimento.studio.com.entretenimento.cinemaActivity"
             android:label="Cinemas"
+            android:launchMode="singleTop"
             android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
             android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="entretenimento.studio.com.entretenimento.contatoActivity"
             android:label="Contato"
-            android:roundIcon="@dimen/nav_header_height" />
+            android:launchMode="singleTop"
+            android:parentActivityName="entretenimento.studio.com.entretenimento.MainActivity"
+            android:roundIcon="@string/navigation_drawer_open"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="entretenimento.studio.com.entretenimento.bar43rockActivity"
             android:label="43 Rockbar"

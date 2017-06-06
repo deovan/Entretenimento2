@@ -104,7 +104,8 @@ public class pubActivity extends AppCompatActivity implements NavigationView.OnN
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
-            super.onBackPressed();
+           // finish();
+          super.onBackPressed();
         }
     }
 
@@ -139,6 +140,7 @@ public class pubActivity extends AppCompatActivity implements NavigationView.OnN
         if (id == R.id.nav_inicio) {
 
             Intent intent = new Intent(this, MainActivity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
             startActivity(intent);
 
         } else if (id == R.id.nav_bar) {

@@ -10,6 +10,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
@@ -21,6 +22,7 @@ public class MainActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
@@ -31,15 +33,34 @@ public class MainActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
     }
 
+    private Toast toast;
+    private long lastBackPressTime = 0;
+
     @Override
     public void onBackPressed() {
+
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
+        } else if (this.lastBackPressTime < System.currentTimeMillis() - 4000) {
+            toast = Toast.makeText(this, "Pressione o Botão Voltar novamente para fechar o Aplicativo.", 4000);
+            toast.show();
+            this.lastBackPressTime = System.currentTimeMillis();
         } else {
+            if (toast != null) {
+                toast.cancel();
+            }
             super.onBackPressed();
         }
     }
+   /* public void onBackPressed() {
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        if (drawer.isDrawerOpen(GravityCompat.START)) {
+           drawer.closeDrawer(GravityCompat.START);
+        } else {
+         super.onPause();
+        }
+    }*/
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -71,33 +92,46 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_inicio) {
 
-            Intent intent = new Intent(this,inicioActivity.class);
+            Intent intent  = new Intent(this, inicioActivity.class);
             startActivity(intent);
+
 
         } else if (id == R.id.nav_bar) {
 
-            Intent intent = new Intent(this, barActivity.class);
+          //  Intent intent = new Intent(this, barActivity.class);
+           // startActivity(intent);
+            Intent intent  = new Intent(this, barActivity.class);
             startActivity(intent);
+
 
         } else if (id == R.id.nav_boate) {
 
-            Intent intent = new Intent(this, boatActivity.class);
+            Intent intent  = new Intent(this, boatActivity.class);
             startActivity(intent);
 
         } else if (id == R.id.nav_cinema) {
 
-            Intent intent = new Intent(this, cinemaActivity.class);
+            //Intent intent = new Intent(this, cinemaActivity.class);
+           // startActivity(intent);
+            Intent intent  = new Intent(this, cinemaActivity.class);
             startActivity(intent);
+
 
         } else if (id == R.id.nav_Pub) {
 
-            Intent intent = new Intent(this, pubActivity.class);
+            //Intent intent = new Intent(this, pubActivity.class);
+           //startActivity(intent);
+            Intent intent  = new Intent(this, pubActivity.class);
             startActivity(intent);
+
 
         } else if (id == R.id.nav_contato) {
 
-            Intent intent = new Intent(this, contatoActivity.class);
+            /*Intent intent = new Intent(this, contatoActivity.class);
+            startActivity(intent);*/
+            Intent intent  = new Intent(this, contatoActivity.class);
             startActivity(intent);
+
 
         }
 
@@ -105,4 +139,5 @@ public class MainActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+
 }

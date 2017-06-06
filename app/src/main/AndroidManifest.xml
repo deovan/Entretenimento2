@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="entretenimento.studio.com.entretenimento">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 
     <application
         android:allowBackup="true"
@@ -12,6 +13,7 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
+            android:launchMode="singleTop"
             android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -23,6 +25,7 @@
         <activity
             android:name=".inicioActivity"
             android:label="Inicio"
+            android:launchMode="singleTop"
             android:theme="@style/AppTheme.NoActionBar"
             android:parentActivityName=".MainActivity"
         />
@@ -30,6 +33,7 @@
         <activity
             android:name=".pubActivity"
             android:label="Pub&apos;s"
+            android:launchMode="singleTop"
             android:theme="@style/AppTheme.NoActionBar"
             android:roundIcon="@string/navigation_drawer_open"
             android:parentActivityName=".MainActivity"
@@ -38,25 +42,31 @@
             android:name=".barActivity"
             android:icon="@mipmap/ic_launcher"
             android:label="Bares"
+            android:launchMode="singleTop"
             android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar"
             android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".boatActivity"
             android:label="Boates"
+            android:launchMode="singleTop"
             android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar"
             android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".cinemaActivity"
             android:label="Cinemas"
+            android:launchMode="singleTop"
             android:roundIcon="@string/navigation_drawer_open"
             android:theme="@style/AppTheme.NoActionBar"
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".contatoActivity"
             android:label="Contato"
-            android:roundIcon="@dimen/nav_header_height" />
+            android:roundIcon="@string/navigation_drawer_open"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".bar43rockActivity"
             android:label="43 Rockbar"

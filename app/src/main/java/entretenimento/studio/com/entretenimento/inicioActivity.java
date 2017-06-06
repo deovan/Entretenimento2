@@ -36,7 +36,10 @@ public class inicioActivity extends AppCompatActivity implements NavigationView.
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
+          //  finish();
             super.onBackPressed();
+
+
         }
     }
 
@@ -71,8 +74,8 @@ public class inicioActivity extends AppCompatActivity implements NavigationView.
         if (id == R.id.nav_inicio) {
 
             Intent intent = new Intent(this, MainActivity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
             startActivity(intent);
-
         } else if (id == R.id.nav_bar) {
 
             Intent intent = new Intent(this, barActivity.class);

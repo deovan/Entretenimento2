@@ -158,7 +158,10 @@ public class barActivity extends AppCompatActivity implements NavigationView.OnN
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
+           // finish();
             super.onBackPressed();
+            startActivity(new Intent(this,MainActivity.class));
+
         }
     }
 
@@ -193,6 +196,7 @@ public class barActivity extends AppCompatActivity implements NavigationView.OnN
         if (id == R.id.nav_inicio) {
 
             Intent intent = new Intent(this, MainActivity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
             startActivity(intent);
 
         } else if (id == R.id.nav_bar) {
@@ -205,10 +209,12 @@ public class barActivity extends AppCompatActivity implements NavigationView.OnN
             Intent intent = new Intent(this, boatActivity.class);
             startActivity(intent);
 
+
         } else if (id == R.id.nav_cinema) {
 
             Intent intent = new Intent(this, cinemaActivity.class);
             startActivity(intent);
+
 
         } else if (id == R.id.nav_Pub) {
 

@@ -142,32 +142,39 @@ public class cinemaActivity extends AppCompatActivity implements NavigationView.
         if (id == R.id.nav_inicio) {
 
             Intent intent = new Intent(this, MainActivity.class);
+            intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
             startActivity(intent);
+
 
         } else if (id == R.id.nav_bar) {
 
             Intent intent = new Intent(this, barActivity.class);
             startActivity(intent);
 
+
         } else if (id == R.id.nav_boate) {
 
             Intent intent = new Intent(this, boatActivity.class);
             startActivity(intent);
+
 
         } else if (id == R.id.nav_cinema) {
 
             Intent intent = new Intent(this, cinemaActivity.class);
             startActivity(intent);
 
+
         } else if (id == R.id.nav_Pub) {
 
             Intent intent = new Intent(this, pubActivity.class);
             startActivity(intent);
 
+
         } else if (id == R.id.nav_contato) {
 
             Intent intent = new Intent(this, contatoActivity.class);
             startActivity(intent);
+
 
         }
 
